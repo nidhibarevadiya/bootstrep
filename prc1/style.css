@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.header{
+    height: 70px;
+    width: 100%;
+    color: #638C6D;
+    background-color: #A5BFCC;
+}
+
+.ic{
+
+}
